@@ -1,4 +1,4 @@
-# Migration vers prestashop sur Docker
+# Migration de Prestashop sur Docker
 
 - Création du dossier /tmp/Migration et /etc/Migration/prestashop
 - Sauvegarde de la base de données -> /tmp/Migration/dump.sql
